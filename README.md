@@ -9,7 +9,7 @@ I'm a **Senior Backend Engineer** with 8+ years of experience building scalable,
 - 🛠 Exploring: `Rust`, `Blockchain`, `AI Automation`
 
 ## 📌 Highlighted Projects
-Here are some of my pinned projects that reflect my recent focus:
+Here are some of my past projects that reflect my recent focus:
 
 - 🧪 **[Healthcare Platform Backend]** – Led lab management system for Changi Airport Group (Ruby on Rails, HL7, Elasticsearch)
 - 🛍️ **[E-commerce Microservices]** – Migrated monolith to microservices; integrated Stripe, Shopee, Tokopedia APIs
@@ -27,5 +27,3 @@ Here are some of my pinned projects that reflect my recent focus:
 - Email: aldi.reinaldi.muhamad@gmail.com
 
 ---
-
-📌 _Feel free to explore my pinned repos or reach out if you want to collaborate!_
