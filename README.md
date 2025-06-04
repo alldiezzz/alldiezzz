@@ -3,9 +3,9 @@
 ## 🚀 About Me
 I'm a **Senior Backend Engineer** with 8+ years of experience building scalable, secure, and maintainable applications. My work spans across healthcare tech, e-commerce, and data-intensive platforms — always with a strong focus on clean architecture and performance.
 
-- 💻 Main Stack: `Ruby on Rails`, `Go`, `ReactJS`, `PostgreSQL`
-- ☁️ DevOps Tools: `Docker`, `Terraform`, `AWS (ECS Fargate, Lambda, S3)`
-- 🔍 Search & Data: `Elasticsearch`, `MySQL`, `Redis`
+- 💻 Main Stack: `Ruby on Rails`, `Go`, `ReactJS`. `NodeJs`, `JS`, `python`
+- ☁️ DevOps Tools: `Docker`, `Terraform`, `AWS (ECS Fargate, Lambda, S3, EC2, Cognito, SES, SMS, Codepipeline)`
+- 🔍 Search & Data: `Elasticsearch`, `MySQL`, `Redis`, `PostgreSQL`, `MongoDB`
 - 🛠 Exploring: `Rust`, `Blockchain`, `AI Automation`
 
 ## 📌 Highlighted Projects
