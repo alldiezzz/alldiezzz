@@ -24,6 +24,8 @@ Here are some of my past projects that reflect my recent focus:
 ## 🤝 Let’s Connect
 - [LinkedIn](https://linkedin.com/in/alldiezzz)
 - [GitHub](https://github.com/alldiezzz)
+- [Portofolio](https://alldiezzz.github.io/portofolio-v2/)
 - Email: aldi.reinaldi.muhamad@gmail.com
+
 
 ---
